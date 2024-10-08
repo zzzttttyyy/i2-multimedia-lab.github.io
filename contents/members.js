@@ -16,7 +16,14 @@ members = {
             "footnote2":""
         },
     ],
-    "Student":[        
+    "Student":[
+        {
+            "name":"Jianyu Zhao",
+            "photoUrl":"./photos/2024/Jianyu Zhao.jpg",
+            "introduction":"Research Area: Text to Video Generation.",
+            "footnote":"Master Student",
+            "footnote2":"Year of Attendance: 2024"
+        },
         {
             "name":"Baowei Zhuang",
             "photoUrl":"./photos/2024/Baowei Zhuang.jpg",
